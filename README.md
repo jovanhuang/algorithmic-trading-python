@@ -33,5 +33,11 @@ This repository
   * Generating Our Output File
   * Additional Project Ideas
 
+## Setting up:
+1. Clone this repo.
+2. Create virutal env by doing `py -m venv env`.
+3. Activate virtual env by doing `.\env\Scripts\activate`.
+4. Install libraries dependencies using `py -m pip install -r requirements.txt`
+
 ## Resources:
 https://www.youtube.com/watch?v=xfzGZB4HhEE&list=PLo_yYwTLdC9JqaqM1aRF3V9a9EvTXJcsK&index=1
